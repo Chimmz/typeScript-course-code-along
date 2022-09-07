@@ -1,0 +1,12 @@
+{
+   "name": "intro",
+   "version": "1.0.0",
+   "description": "",
+   "main": "ts-intro.js",
+   "scripts": {
+      "start": "lite-server"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC"
+}
